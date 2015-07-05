@@ -1,0 +1,192 @@
+Language: English
+Language-Code: en_US
+Build-Date: Mon, 15 juny 2009 12:18:35 -0600
+
+msgid: "Usuario"
+msgstr: "Usuari"
+
+msgid: "Contraseña"
+msgstr: "Contrasenya"
+
+msgid: "Entrar"
+msgstr: "Entrar"
+
+msgid: "Menú"
+msgstr: "Menú"
+
+msgid: "Empresas de Sabadell"
+msgstr: "Empreses de Sabadell"
+
+msgid: "Información"
+msgstr: "Informació"
+
+msgid: "Servicios"
+msgstr: "Serveis"
+
+msgid: "Contacto"
+msgstr: "Contacte"
+
+msgid: "Alta Gratis"
+msgstr: "Alta Gratis"
+
+msgid: "Da de Alta Tu Empresa"
+msgstr: "Dóna d'Alta teva empresa"
+
+msgid: "Busca empresas, productos o servicios"
+msgstr: "Cerca negocis, productes o serveis"
+
+msgid: "Directorio de empresas A-Z"
+msgstr: "Directori d'empreses A-Z"
+
+msgid: "No hay empresas para mostrar."
+msgstr: "No hi ha empreses per mostrar."
+
+msgid: "Telf."
+msgstr: "Telf"
+
+msgid: "Telf."
+msgstr: "Fax."
+
+msgid: "+información"
+msgstr: "+ informació"
+
+msgid: "Ubicación en Google Maps"
+msgstr: "Ubicació a Google Maps"
+
+msgid: "Google Maps"
+msgstr: "Google Maps"
+
+msgid: "nombre de tu empresa"
+msgstr: "nom de la teva empresa"
+
+msgid: "Tus datos societarios o profesionales no serán visibles para los demás usuarios, tan sólo tu nombre comercial"
+msgstr: "Les teves dades societaris o professionals no seran visibles per als altres usuaris, només el teu nom comercial"
+-------------------------------------------------- ---------------
+msgid: "Empresas Sabadell"
+msgstr: "Empreses Sabadell"
+
+msgid: "Alta de empresas"
+msgstr: "Alta d'empreses"
+
+msgid: "Introducción al registro"
+msgstr: "<p> SabadellEmpresas.com </strong> us ofereix un espai web gratuït on publicar la teva empresa, promocionar els teus productes i serveis, publicar notícies, ...</p> Dona't d'alta gratis i rebràs un e-mail amb instruccions per accedir gratuïtament al teu espai </p> <strong> Publicitat i aconsegueix més clients! </strong> </p> "
+
+msgid: "Ficha de Empresa"
+msgstr: "Fitxa d'Empresa"
+
+msgid: "Nombre Comercial"
+msgstr: "Nom Comercial"
+
+msgid: "nombre por el que se conoce a tu empresa"
+msgstr: "nom pel qual es coneix a la teva empresa"
+
+msgid: "Nombre de la sociedad o profesional autónomo"
+msgstr: "Nom de la societat o professional autònom"
+
+msgid: "Tus datos societarios o profesionales no serán visibles para los demás usuarios, tan sólo tu nombre comercial"
+msgstr: "Les teves dades societaris o professionals no seran visibles per als altres usuaris, només el teu nom comercial"
+
+msgid: "CIF o NIF"
+msgstr: "CIF o NIF"
+
+msgid: "Dirección"
+msgstr: "Direcció"
+
+msgid: "Código Postal"
+msgstr: "Codi Postal"
+
+msgid: "Provincia"
+msgstr: "Província"
+
+msgid: "Localidad"
+msgstr: "Localitat"
+
+msgid: "Teléfono"
+msgstr: "Telèfon"
+
+msgid: "Fax / Móvil"
+msgstr: "Fax / Mòbil"
+
+msgid: "E-mail"
+msgstr: "E-mail"
+
+msgid: "Página web"
+msgstr: "Pàgina web"
+
+msgid: "www.empresa.com"
+msgstr: "www.empresa.com"
+
+msgid: "Logo de empresa (formato jpg)"
+msgstr: "Logo d'empresa (format jpg)"
+
+msgid: "Descripción corta de la actividad"
+msgstr: "Descripció curta de l'activitat"
+
+msgid: "Actividad"
+msgstr: "Activitat"
+
+msgid: "Palabras clave que describan tu actividad, productos o servicios (separadas por comas)"
+msgstr: "Paraules clau que descriguin la teva activitat, productes o serveis (separades per comes)"
+
+msgid: "Ej.: Restaurante, menús diarios, comida rápida, platos combinados, paella, ..."
+msgstr: "Ex: Restaurant, menús diaris, menjar ràpid, plats combinats, paella, ..."
+
+msgid: "Acepto las condiciones"msgstr: "Sí accepto les condicions generals. He descarregat les Condicions Generals, les he guardat o les he imprès. Accepto que Sabadellempresas.com prohibeix terminantemnete la inclusió de persones privades i només empreses o professionals es podran incloure. (condicions generals)"
+
+msgid: "Cualquiera"
+msgstr: "Qualsevol"
+
+msgid: "Empresas de Construcción"
+msgstr: "Empreses de Construcció"
+
+msgid: "Empresas de Ingeniería"
+msgstr: "Empreses d'Enginyeria"
+
+msgid: "Instalaciones Industriales"
+msgstr: "Instal.lacions Industrials"
+
+msgid: "Servicios Medioambientales"
+msgstr: "Serveis Mediambientals"
+
+msgid: "Materiales de Construcción"
+msgstr: "Materials de Construcció"
+
+msgid: "Maquinaria"
+msgstr: "Maquinària"
+
+msgid: "Procedimientos Auxiliares"
+msgstr: "Procediments Auxiliars"
+
+msgid: "Abastecimiento y Suministros"
+msgstr: "Abastament i Subministraments"
+
+msgid: "Servicios Informáticos"
+msgstr: "Serveis Informàtics"
+
+msgid: "Servicios a Empresas"
+msgstr: "Serveis a Empreses"
+
+msgid: "Publicidad en Miliarium"
+msgstr: "Publicitat a Miliarium"
+
+msgid: "Guardar Ficha de empresa"
+msgstr: "Desa Fitxa d'empresa"
+
+msgid: "Condiciones Generales"
+msgstr: "Condicions Generals"
+
+msgid: "Debe aceptar las Condiciones Generales"
+msgstr: "Ha d'acceptar les Condicions Generals"
+
+msgid: "Su empresa fue ingresada con éxito, en breve usted recibirá un correo del administrador con sus datos de acceso."
+msgstr: "La seva empresa va ser ingressada amb èxit, en breu rebrà un correu de l'administrador amb les seves dades d'accés."
+
+msgid: "Usuario o Contraseña incorrectos"
+msgstr: "Usuari o Contrasenya incorrectes"
+
+msgid: "Mi empresa"
+msgstr: "La meva empresa"
+
+msgid: "Productos y Servicios"
+msgstr: "Productes i Serveis"
+

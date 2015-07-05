@@ -1,0 +1,193 @@
+Language: English
+Language-Code: en_US
+Build-Date: Mon, 15 Jun 2009 12:18:35 -0600
+
+msgid: "Usuario"
+msgstr: ""
+
+msgid: "Contraseña"
+msgstr: ""
+
+msgid: "Entrar"
+msgstr: ""
+
+msgid: "Menú"
+msgstr: ""
+
+msgid: "Empresas de Sabadell"
+msgstr: ""
+
+msgid: "Información"
+msgstr: ""
+
+msgid: "Servicios"
+msgstr: ""
+
+msgid: "Contacto"
+msgstr: ""
+
+msgid: "Alta Gratis"
+msgstr: ""
+
+msgid: "Da de Alta Tu Empresa"
+msgstr: ""
+
+msgid: "Busca empresas, productos o servicios"
+msgstr: ""
+
+msgid: "Directorio de empresas A-Z"
+msgstr: ""
+
+msgid: "No hay empresas para mostrar."
+msgstr: ""
+
+msgid: "Telf."
+msgstr: ""
+
+msgid: "Fax."
+msgstr: ""
+
+msgid: "+información"
+msgstr: ""
+
+msgid: "Ubicación en Google Maps"
+msgstr: ""
+
+msgid: "Google Maps"
+msgstr: ""
+
+msgid: "nombre de tu empresa"
+msgstr: ""
+
+msgid: "Tus datos societarios o profesionales no serán visibles para los demás usuarios, tan sólo tu nombre comercial"
+msgstr: ""
+-----------------------------------------------------------------
+msgid: "Empresas Sabadell"
+msgstr: ""
+
+msgid: "Alta de empresas"
+msgstr: ""
+
+msgid: "Introducción al registro"
+msgstr: "<p><strong>SabadellEmpresas.com</strong> te ofrece un espacio web gratuito donde publicar tu empresa, promocionar tus productos y servicios, publicar noticias, ...</p><p>Date de alta gratis y recibirás un e-mail con instrucciones para acceder gratuitamente a tu espacio</p><p><strong>¡Publicítate y consigue más clientes!</strong></p>"
+
+msgid: "Ficha de Empresa"
+msgstr: ""
+
+msgid: "Nombre Comercial"
+msgstr: ""
+
+msgid: "nombre por el que se conoce a tu empresa"
+msgstr: ""
+
+msgid: "Nombre de la sociedad o profesional autónomo"
+msgstr: ""
+
+msgid: "Tus datos societarios o profesionales no serán visibles para los demás usuarios, tan sólo tu nombre comercial"
+msgstr: ""
+
+msgid: "CIF o NIF"
+msgstr: ""
+
+msgid: "Dirección"
+msgstr: ""
+
+msgid: "Código Postal"
+msgstr: ""
+
+msgid: "Provincia"
+msgstr: ""
+
+msgid: "Localidad"
+msgstr: ""
+
+msgid: "Teléfono"
+msgstr: ""
+
+msgid: "Fax / Móvil"
+msgstr: ""
+
+msgid: "E-mail"
+msgstr: ""
+
+msgid: "Página web"
+msgstr: ""
+
+msgid: "www.empresa.com"
+msgstr: ""
+
+msgid: "Logo de empresa (formato jpg)"
+msgstr: ""
+
+msgid: "Descripción corta de la actividad"
+msgstr: ""
+
+msgid: "Actividad"
+msgstr: ""
+
+msgid: "Palabras clave que describan tu actividad, productos o servicios (separadas por comas)"
+msgstr: ""
+
+msgid: "Ej.: Restaurante, menús diarios, comida rápida, platos combinados, paella, ..."
+msgstr: ""
+
+msgid: "Acepto las condiciones"
+msgstr: "Sí acepto las condiciones generales. He descargado las Condiciones Generales, las he guardado o las he impreso. Acepto que Sabadellempresas.com prohibe terminantemnete la inclusión de personas privadas y solo empresas o profesionales se podrán incluir. (Condiciones Generales)"
+
+msgid: "Cualquiera"
+msgstr: ""
+
+msgid: "Empresas de Construcción"
+msgstr: ""
+
+msgid: "Empresas de Ingeniería"
+msgstr: ""
+
+msgid: "Instalaciones Industriales"
+msgstr: ""
+
+msgid: "Servicios Medioambientales"
+msgstr: ""
+
+msgid: "Materiales de Construcción"
+msgstr: ""
+
+msgid: "Maquinaria"
+msgstr: ""
+
+msgid: "Procedimientos Auxiliares"
+msgstr: ""
+
+msgid: "Abastecimiento y Suministros"
+msgstr: ""
+
+msgid: "Servicios Informáticos"
+msgstr: ""
+
+msgid: "Servicios a Empresas"
+msgstr: ""
+
+msgid: "Publicidad en Miliarium"
+msgstr: ""
+
+msgid: "Guardar Ficha de empresa"
+msgstr: ""
+
+msgid: "Condiciones Generales"
+msgstr: ""
+
+msgid: "Debe aceptar las Condiciones Generales"
+msgstr: ""
+
+msgid: "Su empresa fue ingresada con éxito, en breve usted recibirá un correo del administrador con sus datos de acceso."
+msgstr: ""
+
+msgid: "Usuario o Contraseña incorrectos"
+msgstr: ""
+
+msgid: "Mi empresa"
+msgstr: ""
+
+msgid: "Productos y Servicios"
+msgstr: ""
+

@@ -1,0 +1,671 @@
+*{
+    margin: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    padding:0px;
+    text-decoration: none;
+}
+img{
+    border:none;
+}
+.pagina{
+    width:885px;
+    position: relative;
+    padding:0px;
+    margin:0px auto;
+    overflow:hidden;
+}
+#header{
+    width:885px;
+    height:105px;
+    float:left;
+}
+#logo{
+    float:left;
+}
+#formlogin{
+    float:right;
+    height:86px;
+    width:360px;
+    margin-top:25px;
+}
+.logfila{
+    float:left;
+    margin-bottom: 8px;
+}
+label{
+    color:#6F99D5;
+    font-size: 16px;
+}
+.textbox{
+    float:left;
+    border:1px solid #D3EAF8;
+    padding:0px;
+    margin:0px;
+    font-size: 13px;
+    color: #6F99D5;
+}
+.submit{
+    text-align: center;
+    color: #6F99D5;
+}
+.logfila label{
+    float:left;
+    height:17px;
+    line-height: 17px;
+    width: 120px;
+    margin-right: 15px;
+}
+.logfila .textbox{
+    float:left;
+    height: 15px;
+    width: 158px;
+}
+#formlogin .submit{
+    float:left;
+    width: 63px;
+    height: 17px;
+    line-height: 17px;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #fff;
+    border:none;
+}
+.barraazul{
+    float:left;
+    width: 885px;
+    height: 30px;
+    background-color: #6F99D5;
+}
+#menuprin a{
+    color: #fff;
+    padding-left: 18px;
+    line-height: 30px;
+    font-size: 17px;
+    margin:0px;
+}
+#idiomas{
+    float:right;
+    width: 135px;
+    height: 30px;
+    text-align: right;
+    padding-right: 18px;
+}
+#idiomas a{
+    padding-left: 5px;
+}
+#dadealta a{
+    float:right;
+    padding-right: 15px;
+    width: 290px;
+    font-size: 21px;
+    color: #fff;
+    font-weight: bold;
+    text-align: right;
+    line-height: 30px;
+}
+#menucategorias{
+    float:left;
+    width:855px;
+    margin-left:30px;
+}
+#titlecategorias{
+    margin-left:30px;
+    height:72px;
+    line-height: 72px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #6F99D5;
+    width:825px;
+    float:left;
+}
+#menucategorias a{
+    float:left;
+    width:260px;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #b9b1a9;
+    background:url(../images/bineta-azul.jpg) no-repeat left;
+    height:19px;
+    line-height:19px;
+    padding-left:25px;
+}
+#titleultempresas{
+    float:left;
+    width:825px;
+    margin-left:30px;
+    margin-top: 15px;
+    line-height: 79px;
+    height: 79px;
+    font-size: 21px;
+    color: #6F99D5;
+    font-weight: bold;
+}
+#ultempresas{
+    float:left;
+    width:790px;
+    border:1px solid #D4EBF9;
+    margin-left:30px;
+}
+#ultempresas a{
+    padding:15px 25px 10px 25px;
+    float:left;
+    width:740px;
+    color: #b9b1a9;
+}
+#ultempresas a strong{
+
+    color: #6F99D5;
+    font-size: 17px;
+    font-weight: bold;
+}
+#buscar_empresas{
+    float: left;
+    margin-left: 30px;
+    margin-top: 38px;
+    width: 795px;
+    line-height:30px;
+}
+#buscar_empresas input{
+    float:right;
+    width:373px;
+    height:27px;
+    border:1px solid #7BA3D7;
+    padding:0px;
+    margin:0px;
+    font-family: Arial,Helvetica,sans-serif;
+    color: #b9b1a9;
+    line-height:30px;
+    font-weight: normal;
+}
+#buscar_empresas label{
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 22px;
+    color: #b9b1a9;
+    font-weight: bold;
+}
+.letras_empresa,
+.letras_empresa *{
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    color: #6F99D5;
+    text-decoration: none;
+}
+.letras_empresa a:hover{
+    text-decoration: underline;
+}
+.letras_empresa{
+    float: left;
+    margin-left: 30px;
+    margin-top: 46px;
+    width: 790px;
+}
+#directoriodeemresas_footer{
+    float:left;
+    width:885px;
+    margin-top:50px;
+}
+#diem_top{
+    float:left;
+    background: url(../images/diem_top.png) no-repeat;
+    width:885px;
+    height:22px;
+    text-align:center;
+}
+#diem_bottom{
+    float:left;
+    background:url(../images/diem_bottom.png) no-repeat;
+    width:885px;
+    height:17px;
+}
+#diem_center{
+    float:left;
+    width:885px;
+    width:842px;
+    background: url(../images/diem_center.gif) repeat-y;
+    padding:0px 16px 0px 16px;
+    text-align: justify;
+}
+#diem_center *,
+#diem_center{
+    color: #62B6DA;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    line-height: 20px!important;
+
+}
+#diem_top label{
+    background:#fff;
+    padding:0px 10px;
+    position:relative;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 19px;
+    color: #b9b1a9;
+    font-weight: bold;
+    font-style: italic;
+    top:-5px;
+}
+#creditos{
+    text-align:center;
+    float:left;
+    width:100%;
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+#creditos *,
+#creditos{
+    font-family: Arial, "Trebuchet MS", Tahoma,  sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: #b9b1a9;
+}
+.active_letra{
+    color: #b9b1a9;
+    font-size: 35px;
+    font-weight: bold;
+}
+#slug,
+#slug *{
+    font-family: Arial, "Trebuchet MS", Tahoma,  sans-serif;
+    font-size: 25px;
+    color: #b9b1a9;
+    font-weight: bold;
+}
+#slug{
+    float:left;
+    width:990px;
+    margin-top:22px;
+    margin-bottom: 26px;
+}
+#catsubmenu a.active_submenu,
+#catsubmenu a:hover{
+    color: #b9b1a9;
+}
+#catsubmenu a{
+    float:left;
+    width:100%;
+    font-family: Arial, "Trebuchet MS", Tahoma,  sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    color: #6F99D5;
+}
+#catsubmenu{
+    float:left;
+    width:212px;
+}
+#patros{
+    float:right;
+    width:670px;
+    border:1px solid #D3EAF8;
+    margin-bottom: 30px;
+}
+.patroitem{
+    float:left;
+    width: 670px;
+}
+.patrologo{
+    float:left;
+    width:226px;
+    text-align:center;
+    height:166px;
+}
+.patrodet{
+    float:left;
+    width:444px;
+    height:166px;
+}
+.patrotitle{
+    color: #6F99D5;
+    font-family: Arial, "Trebuchet MS", Tahoma,  sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 40px;
+}
+.patrodet p{
+    font-family: Arial, "Trebuchet MS", Tahoma,  sans-serif;
+    font-size: 13px;
+    color: #b9b1a9;
+}
+.patroinfo{
+    clear: both;
+    color: #b9b1a9;
+    float: right;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 24px;
+    margin-top: 24px;
+    text-align: right;
+    width: 150px;
+    padding-right:5px;
+}
+.empresasxcat{
+    float: right!important;
+    margin: 0px!important;
+    width: 670px!important;
+}
+.empresasxcat a{
+    width:640px!important;
+}
+#paginacion{
+    clear: both;
+    float: left;
+    margin-top: 15px;
+    text-align: right;
+    width: 885px;
+}
+#paginacion,
+#paginacion *{
+    color: #6F99D5;
+    font-family: Arial, "Trebuchet MS", Tahoma,  sans-serif;
+    font-size: 17px;
+}
+#paginacion .pag_active{
+    font-weight: bold;
+}
+#googlemaps{
+    float:left;
+    width:885px;
+    height:358px;
+    margin-bottom: 32px;
+}
+#titlegmaps{
+    float:left;
+    width:885px;
+    line-height:45px;
+    color: #6F99D5;
+    font-family: Arial, "Trebuchet MS", Tahoma,  sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.introregistro p{
+    padding-bottom: 15px;
+}
+.cuadroform,
+.introregistro{
+    float:left;
+    border: 1px solid #D4EBF9;
+    width:847px;
+    /*height:137px;*/
+    padding:18px;
+    font-family: Arial, "Trebuchet MS", Tahoma,  sans-serif;
+    color: #b9b1a9;
+    font-size: 17px;
+    line-height: 18px;
+}
+.cuadroform{
+    padding:10px 0px 10px 30px;
+    width:853px;
+}
+.barraceleste{
+    float: left;
+    width:885px;
+    line-height:30px;
+    font-size: 20px;
+    background:#8EBBE5;
+    /*padding-left: 15px;*/
+    margin-top:29px;
+}
+.barraceleste,
+.barraceleste *{
+    font-family: Arial, "Trebuchet MS", Tahoma,  sans-serif;
+    color: #fff;
+    font-weight: bold;
+}
+#regceleste_active{
+    background:#6F99D5;
+}
+.regceleste{
+    padding: 0px 30px;
+}
+.cuadroform .regfila{
+    float:left;
+    margin-right:19px;
+    margin-bottom: 7px;
+}
+.cuadroform .regfila label{
+    float:left;
+    width:100%;
+    line-height:34px;
+    height:34px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    color: #6F99D5;
+}
+.cuadroform .regfila #reglogo,
+.cuadroform .regfila .regtextbox{
+    height:33px;
+    line-height:33px;
+    color: #B9B1A9;
+    float:left;
+    width:100%;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    border:1px solid #B1D3F6;
+}
+.cuadroform .regfila span{
+    color:#b9b1a9;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+}
+.cuadroform #regmapsdatos,
+.cuadroform #regmapsdatos *{
+    color:#b9b1a9;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+}
+.cuadroform #regmaps{
+    float:left;
+    margin:0px;
+    width: 464px;
+    height: 368px;
+    margin-right: 28px;
+}
+.cuadroform #regmapscheck{
+    float:left;
+    margin:0px;
+    width:100%;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    color:#b9b1a9;
+    line-height:39px;
+    margin-bottom: 15px;
+}
+#chk17{
+    margin-top: 25px;
+}
+#chk17 input{
+    border: 1px solid #B1D3F6;
+    float: left;
+    height: 25px;
+    width: 25px;
+}
+#f15_texto{
+    float: left;
+    width: 679px;
+}
+#field13{
+    height:222px;
+}
+#reglogo{
+    height: 222px!important;
+}
+#field12{
+    border:none!important;
+    margin-top:189px;
+}
+#regsubmit{
+    float:right;
+    border:1px solid #B4D5F4;
+    width: 237px;
+    height: 33px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    background:#6E97D5;
+    color:#fff;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height:33px;
+    text-align:center;
+    cursor:pointer;
+}
+.regpatros{
+    width:883px!important;
+    border:none!important;
+}
+.regpatros .patroitem{
+    width:885px;
+}
+.regpatros .patrologo{
+    width:375px;
+    margin-right:65px;
+}
+.regpatros .patrodet{
+    width:420px;
+}
+.regpatros .patroinfo{
+    display:none;
+}
+#field25{
+    height:228px;
+}
+.regimg{
+    float:left;
+    width:136px;
+    margin-right:30px;
+}
+#regimagenes{
+    float:left;
+    width:830px;
+    border:none;
+    overflow:hidden;
+    margin-bottom:20px;
+}
+.field26{
+    float:right;
+    width:100%;
+}
+.regimg img,
+.regimgvacia{
+    float:left;
+    width:134px;
+    height:134px;
+    border:1px solid #B6D4F6;
+}
+#listnoticias{
+    float: left;
+    width:817px;
+    height:175px;
+    border:1px solid #B6D4F6;
+    overflow:auto;
+}
+
+#botoneranoticias{
+    float:left;
+    width:817px;
+    line-height:39px;
+    text-align:right;
+}
+#botoneranoticias a{
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 20px;
+    color:#6F99D5;
+    font-weight: bold;
+    padding:0px 7px;
+}
+
+#listnoticias a{
+    background: #F8FCFF;
+    color: #6F99D5;
+    float: left;
+    line-height: 30px;
+    margin-top: 5px;
+    padding-left: 20px;
+    width: 760px;
+}
+
+.dettitulo{
+    float:left;
+    width:817px;
+    line-height:46px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #6F99D5;
+}
+.cfnoticias{
+    float:left;
+    width:817px;
+}
+.cfnoticias a{
+    float:left;
+    width:817px;
+    text-align: justify;
+    font-family: Arial,Helvetica,sans-serif;
+    color:#B9B2AA;
+    margin-bottom:15px;
+    font-size: 16px;
+}
+.cfnoticias a span{
+    font-size: 17px;
+    color: #6F99D5;
+    line-height: 21px;
+}
+#nohayempresas{
+    text-align: center;
+    line-height:50px;
+    font-family: Arial,Helvetica,sans-serif;
+    color:#b9b1a9;
+}
+#textofooter1,
+#textofooter{
+    border: 1px solid #D4EBF9;
+    float: left;
+    margin-left: 30px;
+    margin-top:15px;
+    padding:15px;
+    width: 760px;
+    color: #B9B1A9;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.barradetalle{
+    margin-top:0px;
+    text-indent: 30px;
+}
+.textodet{
+    float: left;
+    width: 820px;
+}
+.detimages{
+    clear: both;
+    float: left;
+    width: 850px;
+}
+.estilofile{
+    float:left;
+    width:136px;
+    height:22px;
+    overflow:hidden;
+    background:url(../images/fondofile.png) no-repeat;
+    cursor:pointer;
+}
+.estilologo input,
+.estilofile input{
+    opacity:0;
+}
+.estilologo input{
+    margin-top:0px!important;
+}
+.estilologo{
+    float:left;
+    width:100%;
+    height:22px;
+    overflow:hidden;
+    margin-top: 200px;
+    background:url(../images/fondofile.png) #6F99D5 no-repeat;
+}

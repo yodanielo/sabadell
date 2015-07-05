@@ -1,0 +1,99 @@
+html {
+	height: 100%;
+	overflow: hidden;
+}
+body{
+background-color:#FFFFFF;
+}
+#login_center {
+ position:absolute;
+ top:50%;
+ width:760px;
+ height:380px;
+ left:50%;
+ margin-left:-380px;
+ margin-top:-190px;
+ background:url(../images/bg-login.jpg) no-repeat;
+
+}
+.login_label{
+ font-family: Arial, sans-serif, Tahoma, "Trebuchet MS", Verdana;
+ font-size:11px;
+ /*width:180px;*/
+ height:20px;
+ color:#1a171b;
+ /*text-align:left;*/
+}
+.login_input{
+ position:relative;
+ font-family: Arial, sans-serif, Tahoma, "Trebuchet MS", Verdana;
+ font-size:11px;
+ width:180px;
+ height:20px;
+ color:#666666;
+ border:1px solid #1a171b;
+}
+.login_submit{
+ font-family: Arial, sans-serif, Tahoma, "Trebuchet MS", Verdana;
+ font-size:11px;
+ width:120px;
+ height:20px;
+ border:0px;
+ color:#FFFFFF;
+ cursor:pointer;
+ background-color:#1a171b;  border:1px solid #1a171b;
+
+}
+/*#contenido{
+float:left;
+width:242px;
+height:366px;
+margin-top:130px;
+margin-left:77px;
+display:inline;
+}*/
+#cont_img{
+float:left;
+width:66px;
+height:66px;
+margin-top:56px;
+margin-left:18px;
+display:inline;
+}
+
+#cont{
+float:left;
+width:200px;
+height:60px;
+margin-left:490px;
+margin-top:110px;
+display:inline;
+}
+
+form { margin:0px; padding:0px; }
+#dlgMensajea{
+            float:left;
+            width:286px;
+            /*height:94px;*/
+            border:7px solid #fff;
+            background:#FFDC08;
+            padding-top:42px;
+            text-align: center;
+            font-family: Arial;
+            padding-bottom:25px;
+            font-size: 11px;
+            color:#003982;
+        }
+        #dlgMensajea a{
+            float:left;
+            width:70px;
+            height:20px;
+            line-height:20px;
+            font-family: Arial;
+            font-size: 11px;
+            color:#fff;
+            background:#003982;
+            margin-left:108px;
+            margin-top:20px;
+            text-decoration: none;
+        }

@@ -1,0 +1,60 @@
+.scrollgeneric {
+line-height: 1px;
+font-size: 1px;
+position: absolute;
+top: 0; left: 0;
+margin-left:0px;
+margin:0px;
+
+}
+
+.vscrollerbase {
+width: 12px;
+/*background-color: white;*/
+background:#D6D6D1;
+padding-top:1px;
+position:relative;
+z-index:9998!important;
+margin-top: 5px!important;
+height:138px!important;
+}
+.vscrollerbar {
+width: 10px;
+position:relative;
+left:0px;
+background: #525550;
+margin-left: 1px;
+border-top: 1px solid #D6D6D1;
+border-bottom: 2px solid #D6D6D1;
+z-index:999!important;
+}
+.scrollwrapper{
+    margin-left: -5px;
+}
+.mcontentwrapper{
+    width:488px!important;
+}
+.vscrollerbarbeg{
+    position:relative;
+    z-index:999!important;
+    cursor:pointer;
+}
+.hscrollerbase {
+height: 12px;
+background-color: white;
+margin:0px;
+}
+.hscrollerbar {
+height: 12px;
+background-color: black;
+margin:0px;
+}
+
+.scrollerjogbox {
+width: 10px;
+height: 8px;
+top: auto; left: auto;
+bottom: 0px; right: 0px;
+background-color: gray;
+margin:0px;
+}
